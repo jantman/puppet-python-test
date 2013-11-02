@@ -3,7 +3,7 @@ puppet-python-test
 
 This is a 'python' puppet module.
 
-It was derived from the Mozilla Release Engineering "PuppetAgain" python module:
+It was derived from the Mozilla Release Engineering "PuppetAgain" python module, 
 https://github.com/mozilla/build-puppet-manifests/tree/master/modules/python
 but heavily modified by a former colleague of mine. In fact, I'm not even sure
 if I should call this "heavily modified" or "inspired by".
