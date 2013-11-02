@@ -1,0 +1,23 @@
+{
+  "dependencies": [
+
+  ],
+  "description": "This module can be used to create a Python virtual environment. You specify which version of Python to use, the desired owner and a list of PIP packages and the environment will be setup.",
+  "summary": "A module to create Python virtual environments",
+  "source": "UNKNOWN",
+  "project_page": "UNKNOWN",
+  "checksums": {
+    "manifests/virtualenv.pp": "5234db6c437516684f6fd062218bb96c",
+    "manifests/virtualenv/package/install.pp": "e568ceea889855543464140c56d12a08",
+    "Modulefile": "e70b856e650c4e719fb8d7682667dee1",
+    "manifests/virtualenv/prerequisites.pp": "c9f33b821e97f13d98af07e50458ed4f",
+    "manifests/init.pp": "ed83cf9d3a514eb76db1051fc34496b1",
+    "files/pip-package-check.py": "ab356cf88bc0f019d097f1c52fb418d5"
+  },
+  "author": "Cox Media Group Digital & Strategy Team",
+  "types": [
+
+  ],
+  "name": "cmgdigital-python",
+  "version": "0.0.1"
+}

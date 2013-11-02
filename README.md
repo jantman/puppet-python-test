@@ -4,8 +4,9 @@ puppet-python-test
 This is a 'python' puppet module.
 
 It was derived from the Mozilla Release Engineering "PuppetAgain" python module:
-http://mxr.mozilla.org/build/source/puppet-manifests/modules/python/
-but heavily modified by a former colleague of mine.
+https://github.com/mozilla/build-puppet-manifests/tree/master/modules/python
+but heavily modified by a former colleague of mine. In fact, I'm not even sure
+if I should call this "heavily modified" or "inspired by".
 
 It is __not__ considered ready to be released to the community. and currently has a number of major issues. 
 
@@ -21,3 +22,12 @@ There are a few outright bugs in it (like no shell escaping in package names, so
 and a number of serious feature omissions (no requirments file handling, can't install the same package in multiple venvs on a node)
 
 At the time it was written, this seemed OK for us (a Python shop) as we either used the default system python, or an application-specific venv built by Hudson.
+
+LICENSE
+-------
+Unknown until I heard back from Mozilla Release Engineering. For the time
+being, please treat this as copyrighted code under a restrictive license,
+until I get confirmation. I assume, since it's from Mozilla, it will probably
+be under MPL. While both my employer and I have (differing) opinions on our
+default license, our derivative work will be under whatever the license the
+original work used.

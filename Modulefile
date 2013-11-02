@@ -1,0 +1,5 @@
+name 'cmgdigital-python'
+version '0.0.1'
+author 'Cox Media Group Digital & Strategy Team'
+summary 'A module to create Python virtual environments'
+description 'This module can be used to create a Python virtual environment. You specify which version of Python to use, the desired owner and a list of PIP packages and the environment will be setup.'
