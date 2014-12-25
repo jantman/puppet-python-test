@@ -1,6 +1,10 @@
 puppet-python-test
 ==================
 
+[![Project Status: Abandoned - Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](http://www.repostatus.org/badges/0.1.0/abandoned.svg)](http://www.repostatus.org/#abandoned)
+
+__This should NOT be used__. It's really quite poor in its current state. I'm working on getting a much better version open-sourced by my employer.
+
 This is a 'python' puppet module.
 
 It was derived from the Mozilla Release Engineering "PuppetAgain" python module, 
